@@ -1,0 +1,2 @@
+Este exemplo demonstra o uso do PhoneGap Camera API para capturar fotos com a câmera do dispositivo ou para recuperar fotos dos álbuns de fotos guardadas. Isto também demonstra a variedade de configurações com as fotografias que podem ser capturadas.
+O aplicativo usa jQuery, bem como jQuery Mobile (para tematização).
